@@ -3,8 +3,9 @@
 # Olá, eu sou o Lucas Fraga! 👋
 
 **Estudante de Ciência da Computação na UFAPE (Universidade Federal do Agreste de Pernambuco)**  
-*Desenvolvimento Back-End (Java / Spring Boot & Python) • Inteligência Artificial & Machine Learning • Análise de Dados*
+*Desenvolvimento Back-End (Java / Spring Boot & Python) • Cloud (AWS) • Inteligência Artificial & Dados*
 
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner_(CLF--C02)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/zlluska)
 [![GitHub](https://img.shields.io/badge/GitHub-zlluska-181717?style=for-the-badge&logo=github)](https://github.com/zlluska)
 [![Gmail](https://img.shields.io/badge/Email-lucasfraga54%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfraga54@gmail.com)
 [![Localização](https://img.shields.io/badge/Pernambuco-Brasil-009739?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/zlluska)
@@ -15,11 +16,20 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Ciência da Computação na UFAPE**, focado em construir aplicações bem estruturadas, escaláveis e orientadas a dados. Tenho experiência prática no desenvolvimento de **APIs REST e sistemas Full-Stack** utilizando **Java (Spring Boot)** e **Python (FastAPI)**, além de explorar fundamentos de **Inteligência Artificial, LLMs e algoritmos clássicos de busca e decisão**.
+Sou estudante de **Ciência da Computação na UFAPE** e certificado **AWS Cloud Practitioner (CLF-C02)**, focado em construir aplicações bem estruturadas, escaláveis e orientadas a dados. Tenho experiência prática no desenvolvimento de **APIs REST e sistemas Full-Stack** utilizando **Java (Spring Boot)** e **Python (FastAPI)**, além de explorar **Computação em Nuvem (AWS)**, fundamentos de **Inteligência Artificial, LLMs** e algoritmos clássicos de busca e decisão.
 
 - 🎓 Cursando **Ciência da Computação** na **UFAPE**
-- 🌱 Estudando **Machine Learning, Engenharia de Dados e Arquitetura de Software (DDD / Clean Code)**
+- ☁️ Certificado **AWS Certified Cloud Practitioner (CLF-C02) – 2026**
+- 🌱 Estudando **Machine Learning, Arquitetura em Nuvem e Engenharia de Software (DDD / Clean Code)**
 - 🐳 Entusiasta de ambientes containerizados com **Docker** e bancos de dados relacionais (**PostgreSQL**)
+
+---
+
+### 🏆 Licenças & Certificações e 🌎 Idiomas
+
+| 🏆 Licenças & Certificados | 🌎 Idiomas |
+| :--- | :--- |
+| ![AWS](https://img.shields.io/badge/AWS-CLF--C02-FF9900?style=flat-square&logo=amazonaws&logoColor=white) **AWS Certified Cloud Practitioner (CLF-C02)** — *2026* | 🇧🇷 **Português** — *Nativo*<br>🇺🇸 **Inglês** — *Nível B2 (Upper-Intermediate)* |
 
 ---
 
@@ -27,12 +37,12 @@ Sou estudante de **Ciência da Computação na UFAPE**, focado em construir apli
 
 <div align="center">
 
-| Linguagens | Back-End & APIs | Front-End | Dados, IA & DevOps |
+| Linguagens | Back-End & APIs | Front-End | Cloud, Dados, IA & DevOps |
 | :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
 | ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) |
 
 </div>
 
@@ -51,5 +61,5 @@ Sou estudante de **Ciência da Computação na UFAPE**, focado em construir apli
 ---
 
 <div align="center">
-  <sub>📍 Garanhuns / Pernambuco, Brasil • Sempre aberto a colaborar em projetos de Software, Dados e IA!</sub>
+  <sub>📍 Pernambuco, Brasil • Sempre aberto a colaborar em projetos de Software, Cloud, Dados e IA!</sub>
 </div>
