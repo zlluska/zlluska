@@ -49,10 +49,10 @@ Sou estudante de **Ciência da Computação na UFAPE** e certificado **AWS Cloud
 ### ⚡ Últimas Atualizações Automatizadas
 
 <!-- START_RECENT_REPOS -->
-- 🔄 **[`citadel-ai-hackathon`](https://github.com/zlluska/citadel-ai-hackathon)** (`Python`) — *🛡️ Citadel AI (Hack Garanhuns Tech 2026 - Desafio Bernhoeft) — SaaS B2B de Document AI, auditoria trabalhista (CLT/NRs) e anonimização LGPD com FastAPI e Gemini 2.5 Flash.*
-- 🔄 **[`springLAB07`](https://github.com/zlluska/springLAB07)** (`Java`) — *Sistema de Controle de Ponto Eletrônico e Banco de Horas em Java 21, Spring Boot, PostgreSQL e Docker.*
-- 🔄 **[`locadora.poo`](https://github.com/zlluska/locadora.poo)** (`Java`) — *LocaFácil — Sistema Full-Stack de gerenciamento de locação de veículos em Java 21 (Spring Boot), React e Docker.*
-- 🔄 **[`condocombat`](https://github.com/zlluska/condocombat)** (`Python`) — *ERP satírico Full-Stack para gerenciar ocorrências e rivalidades de condomínio (FastAPI, Next.js, Astro e WebSockets).*
+- 🔄 **[`jogo-da-velha-minimax`](https://github.com/zlluska/jogo-da-velha-minimax)** (`Python`) — *Implementação dos algoritmos Minimax (Jogo da Velha invencível) e Backtracking (menor caminho em labirinto) em Python.* *(último push: `2026-11-11`)*
+- 🔄 **[`analisador-feedback-clientes`](https://github.com/zlluska/analisador-feedback-clientes)** (`Python`) — *Analisador Inteligente de Feedback de Clientes com classificação de sentimento, categoria e prioridade via OpenAI API.* *(último push: `2026-11-11`)*
+- 🔄 **[`springLAB07`](https://github.com/zlluska/springLAB07)** (`Markdown`) — *Sistema de Controle de Ponto Eletrônico e Banco de Horas em Java 21, Spring Boot, PostgreSQL e Docker.* *(último push: `2026-11-11`)*
+- 🔄 **[`locadora.poo`](https://github.com/zlluska/locadora.poo)** (`Java`) — *LocaFácil — Sistema Full-Stack de gerenciamento de locação de veículos em Java 21 (Spring Boot), React e Docker.* *(último push: `2026-11-11`)*
 <!-- END_RECENT_REPOS -->
 
 ---
