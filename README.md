@@ -2,8 +2,8 @@
 
 # Olá, eu sou o Lucas Fraga! 👋
 
-**Estudante de Ciência da Computação na UFAPE (Universidade Federal do Agreste de Pernambuco)**  
-*Desenvolvimento Back-End (Java / Spring Boot & Python / FastAPI) • Cloud (AWS) • Inteligência Artificial & Dados*
+**Estudante de Ciência da Computação na UFAPE • Certificado AWS (CLF-C02) • Desenvolvedor Back-End & IA**  
+*Construindo APIs escaláveis, sistemas Full-Stack e soluções orientadas a dados com Python (FastAPI) e Java (Spring Boot).*
 
 [![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner_(CLF--C02)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/zlluska)
 [![GitHub](https://img.shields.io/badge/GitHub-zlluska-181717?style=for-the-badge&logo=github)](https://github.com/zlluska)
@@ -20,8 +20,8 @@ Sou estudante de **Ciência da Computação na UFAPE** e certificado **AWS Cloud
 
 - 🎓 Cursando **Ciência da Computação** na **UFAPE**
 - ☁️ Certificado **AWS Certified Cloud Practitioner (CLF-C02) – 2026**
-- 🏆 **Hack Garanhuns Tech 2026:** Líder de Projeto, Produto & Estratégia FinOps no desenvolvimento do [**Citadel AI**](https://github.com/zlluska/citadel-ai-hackathon) (Desafio Document AI Factory — Bernhoeft)
-- 🌱 Estudando **Machine Learning, Arquitetura em Nuvem e Engenharia de Software (DDD / Clean Code)**
+- 🏆 **Hack Garanhuns Tech 2026:** Líder de Projeto, Produto & Estratégia FinOps no desenvolvimento do [**Citadel AI**](https://github.com/JairDevsen/Hackathon) (Desafio Document AI Factory — Bernhoeft)
+- 🌱 Foco atual: **Machine Learning, Arquitetura em Nuvem (AWS) e Engenharia de Software (DDD / Clean Code)**
 
 ---
 
@@ -30,6 +30,30 @@ Sou estudante de **Ciência da Computação na UFAPE** e certificado **AWS Cloud
 | 🏆 Licenças & Certificados | 🌎 Idiomas |
 | :--- | :--- |
 | ![AWS](https://img.shields.io/badge/AWS-CLF--C02-FF9900?style=flat-square&logo=amazonaws&logoColor=white) **AWS Certified Cloud Practitioner (CLF-C02)** — *2026* | 🇧🇷 **Português** — *Nativo*<br>🇺🇸 **Inglês** — *Nível B2 (Upper-Intermediate)* |
+
+---
+
+### 🚀 Projetos Principais
+
+| Projeto | Stack Principal | O que resolve & Arquitetura |
+| :--- | :--- | :--- |
+| 🛡️ [**Citadel AI — Document AI Factory**](https://github.com/JairDevsen/Hackathon) | `FastAPI` `Gemini 2.5 Flash` `PyMuPDF` `FinOps` | **Hack Garanhuns Tech 2026 (Desafio Bernhoeft):** Plataforma SaaS B2B para triagem inteligente, corte físico de PDFs, auditoria trabalhista (CLT/NRs) e tarja preta LGPD com funil FinOps de 4 camadas ([Espelho no meu perfil](https://github.com/zlluska/citadel-ai-hackathon)). |
+| 🏢 [**CondoCombat**](https://github.com/zlluska/condocombat) | `FastAPI` `Next.js` `Astro` `WebSockets` | ERP satírico Full-Stack com feed em tempo real via WebSockets, autenticação JWT, arquitetura em camadas isoladas e suíte com **334 testes automatizados**. |
+| 🚗 [**LocaFácil (`locadora.poo`)**](https://github.com/zlluska/locadora.poo) | `Java 21` `Spring Boot` `React` `Docker` | Sistema completo cliente-servidor de gerenciamento de locação de veículos aplicando arquitetura em camadas, padrão Fachada e POO. |
+| ⏱️ [**Controle de Ponto (`springLAB07`)**](https://github.com/zlluska/springLAB07) | `Java 21` `Spring Boot` `PostgreSQL` `Docker` | API e modelagem rica de domínio (DDD / Value Objects validados com testes de persistência) para controle de jornada de trabalho e banco de horas. |
+| 🤖 [**Analisador de Feedback com IA**](https://github.com/zlluska/analisador-feedback-clientes) | `Python` `OpenAI API` `NLP` | Ferramenta inteligente que classifica sentimento, categoria, resumo executivo e prioridade de feedbacks de clientes via LLMs. |
+| 🧠 [**Jogo da Velha & Backtracking**](https://github.com/zlluska/jogo-da-velha-minimax) | `Python` `Minimax` `Backtracking` | Implementação de agente invencível de Jogo da Velha (Teoria dos Jogos) e resolução de caminho mínimo em labirinto. |
+
+---
+
+### ⚡ Últimas Atualizações Automatizadas
+
+<!-- START_RECENT_REPOS -->
+- 🔄 **[`citadel-ai-hackathon`](https://github.com/zlluska/citadel-ai-hackathon)** (`Python`) — *🛡️ Citadel AI (Hack Garanhuns Tech 2026 - Desafio Bernhoeft) — SaaS B2B de Document AI, auditoria trabalhista (CLT/NRs) e anonimização LGPD com FastAPI e Gemini 2.5 Flash.*
+- 🔄 **[`springLAB07`](https://github.com/zlluska/springLAB07)** (`Java`) — *Sistema de Controle de Ponto Eletrônico e Banco de Horas em Java 21, Spring Boot, PostgreSQL e Docker.*
+- 🔄 **[`locadora.poo`](https://github.com/zlluska/locadora.poo)** (`Java`) — *LocaFácil — Sistema Full-Stack de gerenciamento de locação de veículos em Java 21 (Spring Boot), React e Docker.*
+- 🔄 **[`condocombat`](https://github.com/zlluska/condocombat)** (`Python`) — *ERP satírico Full-Stack para gerenciar ocorrências e rivalidades de condomínio (FastAPI, Next.js, Astro e WebSockets).*
+<!-- END_RECENT_REPOS -->
 
 ---
 
@@ -45,19 +69,6 @@ Sou estudante de **Ciência da Computação na UFAPE** e certificado **AWS Cloud
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
 
 </div>
-
----
-
-### 🚀 Projetos em Destaque
-
-| Projeto | Stack Principal | Descrição |
-| :--- | :--- | :--- |
-| 🛡️ [**Citadel AI — Document AI Factory**](https://github.com/zlluska/citadel-ai-hackathon) | `FastAPI` `Gemini 2.5 Flash` `PyMuPDF` `FinOps` | **Hack Garanhuns Tech 2026 (Desafio Bernhoeft):** Plataforma SaaS B2B para triagem inteligente, corte físico de PDFs, auditoria trabalhista (CLT/NRs) e tarja preta LGPD com funil FinOps de 4 camadas ([Repo Oficial da Equipe](https://github.com/JairDevsen/Hackathon)). |
-| 🏢 [**CondoCombat**](https://github.com/zlluska/condocombat) | `FastAPI` `Next.js` `Astro` `WebSockets` | ERP satírico Full-Stack com feed em tempo real via WebSockets, autenticação JWT e suíte com **334 testes automatizados**. |
-| 🚗 [**LocaFácil (`locadora.poo`)**](https://github.com/zlluska/locadora.poo) | `Java 21` `Spring Boot` `React` `Docker` | Sistema completo cliente-servidor de gerenciamento de locação de veículos aplicando arquitetura em camadas, padrão Fachada e POO. |
-| ⏱️ [**Controle de Ponto (`springLAB07`)**](https://github.com/zlluska/springLAB07) | `Java 21` `Spring Boot` `PostgreSQL` `Docker` | API e modelagem de domínio (DDD / Value Objects) para controle de jornada de trabalho, banco de horas e justificativas. |
-| 🤖 [**Analisador de Feedback com IA**](https://github.com/zlluska/analisador-feedback-clientes) | `Python` `OpenAI API` `NLP` | Ferramenta inteligente que classifica sentimento, categoria, resumo executivo e prioridade de feedbacks de clientes via LLMs. |
-| 🧠 [**Jogo da Velha & Backtracking**](https://github.com/zlluska/jogo-da-velha-minimax) | `Python` `Minimax` `Backtracking` | Implementação de agente invencível de Jogo da Velha (Teoria dos Jogos) e resolução de caminho mínimo em labirinto. |
 
 ---
 
